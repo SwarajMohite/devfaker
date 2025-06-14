@@ -1,0 +1,37 @@
+{
+  "name": "devfaker",
+  "version": "1.0.0",
+  "description": "A lightweight and customizable fake data generator for developers. Generate random emails, usernames, UUIDs, passwords, names, and more — perfect for prototyping, testing, and seeding data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "faker",
+    "fake-data",
+    "random-data",
+    "email-generator",
+    "uuid",
+    "devtools",
+    "mock-data",
+    "testing",
+    "data-seeding",
+    "data-generator",
+    "password-generator",
+    "name-generator",
+    "username",
+    "fakerjs",
+    "nanoid"
+  ],
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwarajMohite/devfaker.git"
+  },
+  "author": "Mohite Swaraj Sanjay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SwarajMohite/devfaker/issues"
+  },
+  "homepage": "https://github.com/SwarajMohite/devfaker#readme"
+}
